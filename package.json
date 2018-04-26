@@ -1,0 +1,19 @@
+{
+  "name": "zomato2018bot",
+  "version": "1.0.0",
+  "description": "Telegram bot using the zomato API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alistairlobo/zomato2018bot.git"
+  },
+  "author": "Alistair Lobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alistairlobo/zomato2018bot/issues"
+  },
+  "homepage": "https://github.com/alistairlobo/zomato2018bot#readme"
+}
